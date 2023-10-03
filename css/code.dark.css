@@ -1,0 +1,43 @@
+code {
+	color: #CCC;
+	background-color: #2A3139;
+	border: thin solid #2A3139;
+}
+
+kbd.option, kbd.variable, kbd.function {
+	color: #5DB0B0;
+}
+
+kbd.method {
+	color: #9A74DF;
+}
+
+kbd.cmd, kbd.string, kbd.numeral, kbd.regex {
+	color: #F3AB57;
+}
+
+kbd.block {
+	color: #3A8DAF;
+}
+
+kbd.argument, kbd.type, kbd.property {
+	color: #6598CA;
+}
+
+table.binding tr:hover {
+	background-color: #2A3139;
+}
+
+div.documentation {
+	background-color: #2A3139;
+	border: thin dotted #99C79422;
+}
+
+div.documentation dt {
+	color: #CCC;
+}
+
+div.documentation h4 {
+	background-color: #2A3139;
+	border-bottom: thin dotted #99C79422;
+}
